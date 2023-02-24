@@ -10,10 +10,11 @@ Simple BMI app with a nice UI and easy use.
 ## 🎥 Promo Video
 <img alt="GIF" src="preview/demo_1.gif" width= "300" /> <img alt="GIF" src="preview/demo_2.gif" width= "300" />
 
-<br>
 
-## 🔑 License
-- This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
+### Design by Oliver Gomes: 
+https://www.behance.net/gallery/75656331/BMI-Calculator-App
+
+<br>
 
 ## 🧑 Author
 
